@@ -1,0 +1,12 @@
+
+#
+#  自动由generate_filelist生成
+#  注意: 文件或目录中不能出现空格, 否则会出错
+#  每行的含义
+#  文件名(filename)    尺寸(filesize)    标记(flags)    md5    主版本号(major_version)    次版本号(minor_version)
+#
+
+DVR-AHD-T17031601-V5.03.00.w-ENG.crc        11157912     0       3ABEDEE6D8F6915F848B913AFDFA1002    ----         ----        
+
+
+

@@ -1,0 +1,12 @@
+
+#
+#  自动由generate_filelist生成
+#  注意: 文件或目录中不能出现空格, 否则会出错
+#  每行的含义
+#  文件名(filename)    尺寸(filesize)    标记(flags)    md5    主版本号(major_version)    次版本号(minor_version)
+#
+
+71X-AHD-T17051603-V5.03.00.w-ENG .crc       11194872     0       E7AAE53D1D14AFC4006F2584CAA99321    ----         ----        
+
+
+
